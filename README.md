@@ -19,7 +19,7 @@ Data Analysis for Genomics, De Bruijn Graph Chain Merging Compacting.
 
 -There are 2 python scripts, each one has a different approach when dealing with data structures resulting in overall different complexity.
 
--Here are some use cases :
+-Here are some use cases, visualization with sequence label drawn, using networkx and matplotlib libraries to visualize the graph. :
 
 -Test Case 1 De Bruijn Graph :
 
